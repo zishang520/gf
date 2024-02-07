@@ -5,13 +5,13 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config: Config = {
   title: 'GoFrame',
   tagline: 'GoFrame',
-  favicon: '/gf/img/favicon.ico',
+  favicon: '/img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://goframe.org/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/gf/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
