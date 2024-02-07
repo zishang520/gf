@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgfdoc=self.webpackChunkgfdoc||[]).push([[53237],{60546:(s,e,c)=>{c.r(e),c.d(e,{default:()=>o});var t=c(39962),f=(c(46583),c(90512),c(16550));var n=c(85893);function o(){const{siteConfig:s}=(0,t.Z)();return(0,n.jsx)(f.l_,{to:`${s.baseUrl}docs/`})}}}]);
