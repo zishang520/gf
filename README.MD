@@ -7,16 +7,16 @@ https://www.hailaz.cn/gfdoc-md/
 ## docs 文档下载方式
 
 ```shell
-// 先安装工具
+# 先安装工具
 go install github.com/hailaz/doc2pdf/cmd/doc2pdf@latest
-// 运行下载
+# 运行下载
 doc2pdf gf -m=md
-// 复制生成的文件到docs和static
+# 复制生成的文件到docs和static
 cp -r -f output/goframe-latest-md/* docs/
 cp -r -f output/goframe-latest-md-static/* static/
 
-// windows
-// xcopy /s /y A\* B\
+# windows
+# xcopy /s /y A\* B\
 
 ```
 
