@@ -8,6 +8,7 @@ on:
     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
   schedule:
     - cron: '0 15 */3 * *'
+  # 非默认分支无法触发定时任务
 
 jobs:
   deploy:
