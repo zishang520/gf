@@ -55,7 +55,8 @@ golang版本 >= 1.18
 
 ## 文档
 
-- 官网（中文）： [https://goframe.org/](https://goframe.org/)
+- 官网（中文）： [https://goframe.org](https://goframe.org)
+- 镜像（中文）：[https://pages.goframe.org](https://pages.goframe.org)
 - 离线文档： [https://github.com/gogf/goframe.org-pdf](https://github.com/gogf/goframe.org-pdf)
 
 ## 帮助
